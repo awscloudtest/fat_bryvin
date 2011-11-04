@@ -5,9 +5,9 @@ gem 'rake',  '0.8.7'
 
 # Uncomment the database that you have configured in config/database.yml
 # ----------------------------------------------------------------------
-# gem "mysql2", "0.2.7"
+gem "mysql2", "0.2.13"
 # gem "sqlite3"
-gem "pg", ">= 0.9.0"
+# gem "pg", ">= 0.9.0"
 
 gem 'authlogic',           '~> 3.0.3'
 gem 'acts_as_commentable', '>= 3.0.1'
